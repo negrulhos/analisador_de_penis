@@ -6,7 +6,7 @@ ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("blue")
 
 # Tamanho e curvatura média do penis brasileiro
-media_penis = 13
+media_penis = 12
 
 media_curvatura = 30
 
